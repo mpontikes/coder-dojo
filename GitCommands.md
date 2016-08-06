@@ -24,6 +24,7 @@ If this is your first time using Git, type git into the command line. Follow the
 1. Type "git add <files you want to change>" in the command line to add files to the commit. (Tip: Use "git add ." to add all files)
 2. Type "git commit -m <your message> to save the commit. Make sure the message describes your changes.
 3. Type "git push origin master" to upload your files!
+4. Follow the instructions!
 
 ## Downloading Changes
 
